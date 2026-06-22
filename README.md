@@ -8,9 +8,11 @@ This repo covers how M0DUL0 runs: mission, conduct, ethics, and contributing. Re
 
 ## :dart: Mission
 
-M0DUL0 exists to make hardware security accessible to people from all backgrounds, since CTFs rarely cover hardware and most newcomers never get a structured way in. We teach it through the jeopardy style CTF categories.
+Hardware security is hard to get into. Most resources are scattered, assume prior knowledge, or are buried in conference talks and research papers with no clear starting point. M0DUL0 exists to fix that: a community where anyone, regardless of background, can find structured hardware hacking resources, learn from real research, and build practical skills alongside people who've already done it.
 
-## 🛠️: How We Do It
+## 🛠️ How We Do It
+
+We organise our resources, materials, research papers, and projects around traditional CTF categories. Not because hardware hacking requires playing CTFs, but because those categories give people a familiar structure to map unfamiliar concepts onto:
 
 - **OSINT** :detective: datasheet hunting and teardown research.
 - **Reversing** :gear: board-level reverse engineering and firmware disassembly.
@@ -18,6 +20,8 @@ M0DUL0 exists to make hardware security accessible to people from all background
 - **Crypto** :closed_lock_with_key: side-channel analysis and key extraction.
 - **Forensics** :mag: firmware dumping and chip-off recovery.
 - **Hardware** :wrench: UART, JTAG/SWD, RF/SDR, BLE, CAN bus, ICS/SCADA.
+
+The categories are a lens, not a prerequisite. You don't need a CTF background to use them.
 
 ## What M0DUL0 Is
 
@@ -45,7 +49,7 @@ Read the Terms of Reference, Code of Conduct, Code of Ethics, and Disclaimer fir
 
 ## Joining M0DUL0
 
-New members join through Discord via our [Linktree](https://linktr.ee/modulo). The server handles roles and access.
+New members join through Discord via our [Linktree](https://linktr.ee/modulo). Once you're in, Discord's onboarding flow walks you through self-assigning your experience level and field of interest: CTFs, Researcher, Modifier, or any combination. Access to the community opens automatically once roles are set.
 
 ## New Member Start Here
 
@@ -82,4 +86,4 @@ New members join through Discord via our [Linktree](https://linktr.ee/modulo). T
 
 ---
 
-If you're unsure whether an activity is appropriate, don't proceed. Ask a moderator first.
+If you're unsure whether an activity is appropriate, don't proceed. Ask a Volunteer or Core Founding Team member first.
