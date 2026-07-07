@@ -81,15 +81,6 @@ Do not submit content that:
 - Enables attacks on unpatched, deployed production devices before responsible disclosure is complete.
 - Reproduces copyrighted vendor documentation or datasheets in full without permission.
 
-## Reporting Issues
-
-Use the issue template in `.github/ISSUE_TEMPLATE/community-report.md` for:
-
-- Conduct or policy violations.
-- Documentation corrections or gaps.
-- Research integrity concerns.
-- Community process improvements.
-
 For urgent safety matters, contact a Volunteer or Core Founding Team member directly rather than opening a public issue.
 
 ## Review and Moderation
