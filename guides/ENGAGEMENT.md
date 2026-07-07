@@ -23,7 +23,7 @@ We encourage all members to join the M0DUL0 GitHub organisation directly — rea
 
 ### Research Sessions
 
-Long-term hardware security research sessions built around hands-on work with proper lab equipment. Research scope, datasets, and tooling are maintained in the [HARDWARE](https://github.com/[ORG]/HARDWARE) repository.
+Long-term hardware security research sessions built around hands-on work with proper lab equipment. Research scope, datasets, and tooling are maintained in the [HARDWARE](https://github.com/M0DUL0-Hardware-Hacking-Community/HARDWARE) repository.
 
 Research sessions are not scheduled for 2025. They will be announced through Discord when the community is ready to run them.
 
