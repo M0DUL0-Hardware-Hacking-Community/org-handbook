@@ -1,18 +1,18 @@
-# M0DUL0
+# MHHC
 
-M0DUL0 is an independent hardware hacking community based in Malaysia, comprised of students, professionals, and hobbyists alike. As a team, we conduct hardware security research, develop proof-of-concepts (PoCs), and perform hardware modifications across various platforms.
+Malaysia Hardware Hacking Community (MHHC) is an independent hardware hacking community based in Malaysia, comprised of students, professionals, and hobbyists alike. As a team, we conduct hardware security research, develop proof-of-concepts (PoCs), and perform hardware modifications across various platforms.
 
 ## Mission
 
-M0DUL0 exists to make hardware security accessible to anyone. Most resources are scattered, assume prior knowledge, or are buried in conference talks and research papers with no clear starting point. We bring them together: structured resources, materials, research papers, and hands-on projects that give people a real way into hardware hacking regardless of their background.
+Malaysia Hardware Hacking Community (MHHC) exists to make hardware security accessible to anyone. Most resources are scattered, assume prior knowledge, or are buried in conference talks and research papers with no clear starting point. We bring them together: structured resources, materials, research papers, and hands-on projects that give people a real way into hardware hacking regardless of their background.
 
-## What M0DUL0 Is
+## What MHHC Is
 
 - A hands-on hardware security community for research, hardware modification projects, and PoC development.
 - A learning environment built around structured resources and materials, organised through traditional CTF categories as a framework.
 - A low-ego, credit-where-it's-due space. If you wrote it, your name is on it.
 
-## What M0DUL0 Is Not
+## What MHHC Is Not
 
 - Not a platform for testing or modifying devices you don't own or have explicit permission to touch.
 - Not an authority that authorises research against third-party hardware, networks, or production systems.
@@ -41,9 +41,9 @@ The categories are a lens, not a prerequisite. You don't need a CTF background t
 
 Read the Terms of Reference, Code of Conduct, Code of Ethics, and Disclaimer first before participating.
 
-## Joining M0DUL0
+## Joining MHHC
 
-M0DUL0's main platform is Discord. New members join through the invite on our [Linktree](https://linktr.ee/modulo).
+MHHC's main platform is Discord. New members join through the invite on our [Linktree](https://linktr.ee/mhhc.org).
 
 Once you're in, Discord's onboarding flow walks you through self-assigning your experience level and field of interest: CTFs, Researcher, Modifier, or any combination. Access to the community opens automatically once roles are set.
 
